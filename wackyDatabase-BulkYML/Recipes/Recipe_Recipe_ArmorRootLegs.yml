@@ -10,6 +10,9 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- Root:10:2:True
-- ElderBark:10:5:True
-- DeerHide:2:0:True
+- Root:20:1:True
+- ElderBark:30:2:True
+- LeatherScraps:6:1:True
+- DeerHide:4:0:True
+- TrollHide:1:0:True
+- Bronze:5:0:True
