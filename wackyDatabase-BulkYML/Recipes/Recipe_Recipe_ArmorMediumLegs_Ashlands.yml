@@ -10,6 +10,6 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- LinenThread:15:10:True
-- LoxPelt:4:2:True
-- AskHide:10:5:True
+- LinenThread:90:3:True
+- LoxPelt:12:1:True
+- AskHide:30:2:True
