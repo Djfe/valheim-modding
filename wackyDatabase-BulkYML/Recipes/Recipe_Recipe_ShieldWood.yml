@@ -10,6 +10,6 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- Wood:10:5:True
-- Resin:4:2:True
-- LeatherScraps:4:2:True
+- Wood:8:1:True
+- Resin:15:2:True
+- LeatherScraps:8:1:True

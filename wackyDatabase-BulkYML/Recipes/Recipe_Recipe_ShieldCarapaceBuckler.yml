@@ -10,6 +10,8 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- Carapace:16:8:True
-- ScaleHide:3:3:True
-- Eitr:10:3:True
+- Carapace:20:2:True
+- ScaleHide:12:1:True
+- Eitr:15:2:True
+- BlackMetal:35:2:True
+- Copper:16:2:True

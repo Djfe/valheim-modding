@@ -10,5 +10,6 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- FineWood:10:10:True
-- Iron:8:4:True
+- FineWood:30:2:True
+- Iron:18:2:True
+- LeatherScraps:12:2:True
