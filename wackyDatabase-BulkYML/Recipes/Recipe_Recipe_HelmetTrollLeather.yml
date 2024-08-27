@@ -10,5 +10,6 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- TrollHide:5:2:True
-- BoneFragments:3:1:True
+- TrollHide:20:2:True
+- BoneFragments:20:2:True
+- LeatherScraps:4:2:True
