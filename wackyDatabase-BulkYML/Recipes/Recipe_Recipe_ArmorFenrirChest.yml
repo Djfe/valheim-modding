@@ -10,6 +10,9 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- WolfHairBundle:20:5:True
-- WolfPelt:5:3:True
-- LeatherScraps:10:4:True
+- WolfHairBundle:40:2:True
+- WolfPelt:14:1:True
+- LeatherScraps:30:2:True
+- BoneFragments:10:1:True
+- DeerHide:4:0:True
+- Silver:4:0:True
