@@ -10,6 +10,7 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- ElderBark:30:5:True
-- Iron:35:15:True
-- LeatherScraps:4:0:True
+- ElderBark:8:2:True
+- Iron:60:4:True
+- LeatherScraps:8:2:True
+- FineWood:2:0:True
