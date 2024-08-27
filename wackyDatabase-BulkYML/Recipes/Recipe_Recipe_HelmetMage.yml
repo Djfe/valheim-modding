@@ -10,6 +10,7 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- LinenThread:16:8:True
-- Eitr:15:5:True
-- Iron:2:0:True
+- LinenThread:100:4:True
+- Eitr:40:2:True
+- Feathers:8:1:True
+- ScaleHide:6:0:True
