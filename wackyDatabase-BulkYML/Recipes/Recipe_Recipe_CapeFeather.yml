@@ -10,6 +10,6 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- Feathers:10:2:True
-- ScaleHide:5:5:True
-- Eitr:20:3:True
+- Feathers:20:2:True
+- ScaleHide:30:2:True
+- Eitr:34:2:True

@@ -10,6 +10,9 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- WolfPelt:6:4:True
-- Silver:4:2:True
+- WolfPelt:20:2:True
+- Silver:5:1:True
 - TrophyWolf:1:0:True
+- LeatherScraps:6:1:True
+- BoneFragments:30:2:True
+- Iron:5:1:True
