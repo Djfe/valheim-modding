@@ -10,7 +10,8 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- YggdrasilWood:10:0:True
-- Eitr:15:15:True
-- Silver:5:5:True
-- Mandible:2:2:True
+- YggdrasilWood:6:1:True
+- Eitr:80:5:True
+- Silver:25:2:True
+- Mandible:8:1:True
+- ElderBark:1:0:True
