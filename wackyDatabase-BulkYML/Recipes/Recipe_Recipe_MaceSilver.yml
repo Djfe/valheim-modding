@@ -10,7 +10,11 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- ElderBark:10:0:True
-- Silver:30:15:True
-- YmirRemains:5:0:True
-- FreezeGland:5:0:True
+- ElderBark:4:1:True
+- Silver:30:2:True
+- YmirRemains:4:1:True
+- FreezeGland:12:1:True
+- DeerHide:1:0:True
+- LeatherScraps:4:1:True
+- Iron:30:2:True
+- FineWood:2:0:True

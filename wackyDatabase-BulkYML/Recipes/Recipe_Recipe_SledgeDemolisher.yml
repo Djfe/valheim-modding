@@ -10,6 +10,10 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- YggdrasilWood:10:2:True
-- Iron:20:15:True
-- Eitr:10:2:True
+- YggdrasilWood:15:1:True
+- Iron:60:3:True
+- Eitr:15:2:True
+- DeerHide:1:0:True
+- Silver:2:0:True
+- LinenThread:24:2:True
+- RoundLog:1:0:True
