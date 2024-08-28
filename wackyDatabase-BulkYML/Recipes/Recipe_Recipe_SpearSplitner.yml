@@ -10,7 +10,8 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- Blackwood:10:5:True
-- FlametalNew:6:6:True
-- AskHide:2:1:True
-- BonemawSerpentTooth:3:3:True
+- Blackwood:30:2:True
+- FlametalNew:30:2:True
+- AskHide:5:1:True
+- BonemawSerpentTooth:16:1:True
+- LinenThread:10:1:True
