@@ -10,6 +10,7 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- FineWood:4:0:True
-- Iron:10:4:True
-- BlackMetal:10:4:True
+- YggdrasilWood:1:0:True
+- Iron:15:1:True
+- BlackMetal:15:1:True
+- LinenThread:30:2:True
