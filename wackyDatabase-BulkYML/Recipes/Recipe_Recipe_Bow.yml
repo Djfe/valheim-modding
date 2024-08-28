@@ -10,6 +10,7 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- Wood:10:5:True
-- LeatherScraps:8:4:True
-- DeerHide:0:1:True
+- Wood:30:2:True
+- LeatherScraps:25:2:True
+- DeerHide:4:1:True
+- Flint:1:0:True

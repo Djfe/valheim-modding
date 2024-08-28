@@ -10,6 +10,9 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- FineWood:10:5:True
-- BoneFragments:40:20:True
-- Eitr:10:0:True
+- FineWood:12:1:True
+- BoneFragments:120:10:True
+- Eitr:5:1:True
+- ElderBark:5:1:True
+- YggdrasilWood:10:0:True
+- RoundLog:12:1:True
