@@ -10,7 +10,9 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- FineWood:3:0:True
-- Iron:15:10:True
-- Eitr:10:5:True
-- Wisp:3:1:True
+- YggdrasilWood:1:0:True
+- Iron:60:3:True
+- Eitr:35:2:True
+- Wisp:4:1:True
+- LinenThread:30:3:True
+- ScaleHide:4:1:True

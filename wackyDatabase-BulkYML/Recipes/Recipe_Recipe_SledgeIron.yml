@@ -10,7 +10,11 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- ElderBark:10:2:True
-- Iron:30:15:True
+- ElderBark:8:2:True
+- Iron:60:4:True
 - YmirRemains:4:2:True
 - TrophyDraugrElite:1:0:True
+- DeerHide:1:0:True
+- LeatherScraps:8:2:True
+- Bronze:2:0:True
+- FineWood:2:0:True

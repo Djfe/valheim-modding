@@ -13,5 +13,8 @@ reqs:
 - DyrnwynHiltFragment:1:0:True
 - DyrnwynBladeFragment:1:0:True
 - DyrnwynTipFragment:1:0:True
-- FlametalNew:20:10:True
-- GemstoneRed:1:1:True
+- FlametalNew:65:3:True
+- GemstoneRed:2:1:True
+- LinenThread:10:1:True
+- AskHide:2:0:True
+- ScaleHide:4:1:True

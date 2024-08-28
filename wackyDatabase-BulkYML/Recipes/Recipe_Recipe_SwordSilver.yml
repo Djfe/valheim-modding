@@ -11,6 +11,6 @@ requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
 - Wood:2:1:True
-- Silver:40:20:True
-- LeatherScraps:3:1:True
-- Iron:5:3:True
+- Silver:35:2:True
+- LeatherScraps:4:1:True
+- Iron:35:2:True

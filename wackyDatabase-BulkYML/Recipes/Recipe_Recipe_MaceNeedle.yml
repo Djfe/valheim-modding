@@ -10,7 +10,11 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- FineWood:5:0:True
-- Iron:20:2:True
-- Needle:5:2:True
-- LinenThread:10:0:True
+- FineWood:1:1:True
+- Iron:12:1:True
+- Needle:14:2:True
+- LinenThread:20:2:True
+- DeerHide:1:0:True
+- Bronze:1:0:True
+- BlackMetal:20:2:True
+- RoundLog:4:0:True

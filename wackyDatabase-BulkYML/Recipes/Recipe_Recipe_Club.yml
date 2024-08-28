@@ -10,5 +10,7 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- Wood:6:0:True
-- BoneFragments:0:5:True
+- Wood:4:1:True
+- BoneFragments:20:2:True
+- Flint:1:0:True
+- LeatherScraps:4:0:True

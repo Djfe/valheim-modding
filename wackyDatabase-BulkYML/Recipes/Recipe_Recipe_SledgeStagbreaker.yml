@@ -10,7 +10,12 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- RoundLog:20:5:True
-- TrophyDeer:5:2:True
-- LeatherScraps:2:1:True
-- BoneFragments:0:10:True
+- RoundLog:6:1:True
+- TrophyDeer:4:0:True
+- LeatherScraps:4:1:True
+- BoneFragments:50:3:True
+- Wood:2:0:True
+- Flint:2:0:True
+- DeerHide:1:0:True
+- GreydwarfEye:4:0:True
+- HardAntler:2:1:True

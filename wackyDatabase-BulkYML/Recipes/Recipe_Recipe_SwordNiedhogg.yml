@@ -11,5 +11,7 @@ requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
 - CharredBone:3:0:True
-- FlametalNew:12:10:True
-- AskHide:2:2:True
+- FlametalNew:55:4:True
+- AskHide:10:1:True
+- LinenThread:15:1:True
+- YggdrasilWood:1:0:True

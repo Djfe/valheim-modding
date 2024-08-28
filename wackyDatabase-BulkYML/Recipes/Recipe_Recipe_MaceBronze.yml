@@ -10,6 +10,7 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- Wood:4:0:True
-- Bronze:8:4:True
-- LeatherScraps:3:0:True
+- RoundLog:4:1:True
+- Bronze:60:3:True
+- LeatherScraps:4:1:True
+- Flint:1:0:True
