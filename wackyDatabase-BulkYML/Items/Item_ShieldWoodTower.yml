@@ -17,11 +17,11 @@ Secondary_Attack:
 Damage: 
 Damage_Per_Level: 
 Armor:
-  armor: 100
-  armorPerLevel: 1
+  armor: 110
+  armorPerLevel: 10
 FoodStats: 
 Moddifiers:
-  m_movementModifier: -0.2
+  m_movementModifier: -0.15
   m_EitrRegen: 0
   m_homeItemsStaminaModifier: 0
   m_heatResistanceModifier: 0
@@ -35,11 +35,11 @@ Moddifiers:
 SE_Equip: 
 SE_SET_Equip: 
 ShieldStats:
-  m_blockPower: 10
-  m_blockPowerPerLevel: 6
+  m_blockPower: 11
+  m_blockPowerPerLevel: 12
   m_timedBlockBonus: 0
-  m_deflectionForce: 100
-  m_deflectionForcePerLevel: 5
+  m_deflectionForce: 110
+  m_deflectionForcePerLevel: 15
 m_maxStackSize: 1
 m_canBeReparied: true
 m_destroyBroken: false
