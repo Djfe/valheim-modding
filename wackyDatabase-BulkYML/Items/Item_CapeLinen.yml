@@ -17,8 +17,8 @@ Secondary_Attack:
 Damage: 
 Damage_Per_Level: 
 Armor:
-  armor: 1
-  armorPerLevel: 1
+  armor: 3
+  armorPerLevel: 2
 FoodStats: 
 Moddifiers:
   m_movementModifier: 0
@@ -66,7 +66,8 @@ m_toolTier: 4
 m_maxQuality: 4
 m_value: 0
 ConsumableStatusEffect: 
-damageModifiers: []
+damageModifiers:
+- Frost:Resistant
 GEffects: 
 GEffectsPLUS:
   Hit_Effects: []
