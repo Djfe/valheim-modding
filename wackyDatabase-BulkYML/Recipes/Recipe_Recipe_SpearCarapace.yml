@@ -10,6 +10,7 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- YggdrasilWood:10:5:True
-- Carapace:4:4:True
-- Mandible:2:1:True
+- YggdrasilWood:25:3:True
+- Carapace:15:2:True
+- Mandible:5:1:True
+- LinenThread:10:1:True
