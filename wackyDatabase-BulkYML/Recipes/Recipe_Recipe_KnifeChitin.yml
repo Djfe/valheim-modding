@@ -10,6 +10,7 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- FineWood:4:0:True
-- Chitin:20:10:True
-- LeatherScraps:2:0:True
+- FineWood:1:0:True
+- Chitin:65:5:True
+- LeatherScraps:2:1:True
+- Bronze:2:0:True
