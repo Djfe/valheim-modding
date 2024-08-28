@@ -24,6 +24,7 @@ Primary_Attack:
   AttackHealthCost: 0
   m_attackHealthPercentage: 0
   SpeedFactor: 0.3
+  
   DmgMultiplier: 1
   ForceMultiplier: 1
   StaggerMultiplier: 1
@@ -152,7 +153,7 @@ Damage:
   Pickaxe: 0
   Pierce: 0
   Poison: 0
-  Slash: 75
+  Slash: 83
   Spirit: 30
 Damage_Per_Level:
   Blunt: 0
@@ -164,8 +165,8 @@ Damage_Per_Level:
   Pickaxe: 0
   Pierce: 0
   Poison: 0
-  Slash: 6
-  Spirit: 5
+  Slash: 4
+  Spirit: 6
 Armor:
   armor: 20
   armorPerLevel: 1
