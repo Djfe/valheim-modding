@@ -10,6 +10,7 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- Wood:4:0:True
-- Iron:20:10:True
-- LeatherScraps:3:0:True
+- RoundLog:2:0:True
+- Iron:45:3:True
+- LeatherScraps:4:1:True
+- FineWood:1:1:True
