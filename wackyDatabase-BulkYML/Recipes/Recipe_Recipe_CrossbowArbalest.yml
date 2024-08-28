@@ -10,6 +10,10 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- Wood:10:5:True
-- Iron:8:4:True
-- Root:4:1:True
+- ElderBark:20:2:True
+- Iron:45:3:True
+- Root:12:1:True
+- Bronze:2:0:True
+- Silver:2:0:True
+- LinenThread:50:5:True
+- YggdrasilWood:20:2:True

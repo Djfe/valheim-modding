@@ -10,7 +10,11 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- Blackwood:10:5:True
-- FlametalNew:8:4:True
-- MorgenSinew:2:1:True
-- BonemawSerpentTooth:4:4:True
+- Blackwood:30:2:True
+- FlametalNew:45:3:True
+- MorgenSinew:5:1:True
+- BonemawSerpentTooth:12:1:True
+- Bronze:2:0:True
+- Silver:2:0:True
+- LinenThread:50:5:True
+- Root:6:1:True
