@@ -10,7 +10,9 @@ disabledUpgrade: false
 requireOnlyOneIngredient: false
 upgrade_reqs: []
 reqs:
-- ElderBark:10:5:True
-- Silver:20:10:True
-- DeerHide:2:2:True
-- Guck:10:2:True
+- ElderBark:30:2:True
+- Silver:20:2:True
+- DeerHide:8:1:True
+- Guck:22:1:True
+- LeatherScraps:12:1:True
+- Iron:20:2:True
